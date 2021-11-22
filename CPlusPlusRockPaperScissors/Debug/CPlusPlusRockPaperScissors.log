@@ -1,0 +1,12 @@
+﻿  ConsoleInput.cpp
+  ConsoleOutput.cpp
+  CPlusPlusRockPaperScissors.cpp
+C:\Users\ds267f\Documents\github\DerekSomervilleUofG\CPlusPlusRockPaperScissors\CPlusPlusRockPaperScissors\RockPaperScissor.h(86,25): warning C4018: '<': signed/unsigned mismatch
+  Input.cpp
+  Output.cpp
+  RandInput.cpp
+  ReadDelimitedFile.cpp
+  RockPaperScissor.cpp
+  Utilities.cpp
+  Generating Code...
+  CPlusPlusRockPaperScissors.vcxproj -> C:\Users\ds267f\Documents\github\DerekSomervilleUofG\CPlusPlusRockPaperScissors\Debug\CPlusPlusRockPaperScissors.exe
